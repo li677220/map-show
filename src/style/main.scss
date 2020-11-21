@@ -1,0 +1,14 @@
+@import "./normalize.scss";
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+body {
+  font: 16px/1.5 tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+  // font-size: 16px;
+}
